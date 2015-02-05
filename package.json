@@ -1,0 +1,10 @@
+{
+  "name": "testTitle",
+  "identifier": "test.windows.Identifier",
+  "version": "2.0.0",
+  "description": "test description",
+  "build": "1",
+  "dependencies": "{}",
+  "releaseNote": "testTitle",
+  "hidden": false
+}
